@@ -1,8 +1,8 @@
-/* eslint-disable prettier/prettier */
 module.exports = {
   theme: {
     backgroundColor: (theme) => ({
       ...theme('colors'),
+      base: '#F9F9F9'
     }),
   },
   variants: {},
