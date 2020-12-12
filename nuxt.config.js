@@ -14,7 +14,7 @@ export default {
   css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: [],
+  plugins: ['~/plugins/firebase.ts'],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,
