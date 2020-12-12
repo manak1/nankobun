@@ -5,7 +5,7 @@
   </a>
 </template>
 
-/* #TODO SNSシェアリンクの作成 */
+/* # TODO SNSシェアリンクの作成 */
 
 <script lang="ts">
 import Vue from 'vue'

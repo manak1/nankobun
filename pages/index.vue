@@ -3,7 +3,7 @@
     <h2 class="text-xl font-bold text-center">
       身長診断メーカー
     </h2>
-    <!-- #TODO: ここの画像 リンゴで身長を図ってる画像にかえる -->
+    <!-- # TODO: ここの画像 リンゴで身長を図ってる画像にかえる -->
     <img class="h-20 mt-4 mx-auto text-center" src="@/assets/images/logo/human_logo.svg">
     <p class="text-sm mt-5 text-center">
       いろんな物であなたの身長をあらわすことが出来るサイトです。<br />
